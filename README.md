@@ -3,4 +3,4 @@ A basic Wordpress plugin to force aggregateRating schema to appear in rich snipp
 
 Download folder, compress, and upload to Wordpress plugins.
 
-Plugin code can be tweaked to have whichever values preferred.
+Plugin code can be tweaked to have whichever values preferred..
