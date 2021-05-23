@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Woocommerce Schema Editor
-* Plugin URI: https://github.com/logiaking/woocommerce-overwrite-aggregaterating-schema-plugin
+* Plugin URI: https://github.com/logiaking/woocommerce-force-aggregaterating-schema-plugin
 * Description: A plugin to extend Schema.org data.
 * Version: 1.0
 * Author: LogiaKing
