@@ -8,6 +8,9 @@
 * Author URI: https://github.com/logiaking
 **/
 
+if ( ! defined( 'ABSPATH' ) ) {
+     exit; // Exit if accessed directly
+}
 
 //Change AggregateRating data
 add_filter( 'woocommerce_structured_data_product', 'custom_piece' );
